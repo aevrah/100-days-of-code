@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 01, 2018 
-**Today's Progress**: Worked a little on the Udacity front-end nanodegree. Started Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'] (https://www.udemy.com/js-and-react-for-devs)
+**Today's Progress**: Worked a little on the Udacity front-end nanodegree. Started Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs)
 
 **Thoughts:** I'm excited to try out React. I've worked with Angular before, and I'd like to find out which framework I enjoy more.
 
