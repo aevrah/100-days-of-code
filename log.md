@@ -5,6 +5,11 @@
 
 **Thoughts:** I'm excited to try out React. I've worked with Angular before, and I'd like to find out which framework I enjoy more.
 
+### Day 2: January 02, 2018 
+**Today's Progress**: Started the website optimization project for the Udacity Front-End Nanodegree. Worked through most of the events and callbacks section of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). I didn't have enough time to get to the section project. 
+
+**Thoughts:** Wish I had more time to spend on it today. I was taking notes on some of the examples given in the Udemy course, so it took a lot longer. 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
