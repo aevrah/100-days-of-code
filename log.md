@@ -15,6 +15,11 @@
 
 **Thoughts:** Already over 20% complete with the course. I think that it is well put together so far. The only issue I've had is with the volume. 
 
+### Day 4: January 04, 2018 
+**Today's Progress**: Finished the AJAX section of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs) where we went over calling an API with the CallBack method and with the new Promises Method. Started the API section in Udacity's FE Nanodegree to align the subjects I was working on. 
+
+**Thoughts:** I'd like to dive a little deeper into the way promises vs callbacks works. 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
