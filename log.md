@@ -11,7 +11,7 @@
 **Thoughts:** Wish I had more time to spend on it today. I was taking notes on some of the examples given in the Udemy course, so it took a lot longer. 
 
 ### Day 3: January 03, 2018 
-**Today's Progress**: Finished the assignment from the events and callbacks section of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs), which finished out the section. You can find my answer ['here'](https://github.com/aevrah/theme-toggler). I started the AJAX section. 
+**Today's Progress**: Finished the assignment from the events and callbacks section of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs), which finished out the section. You can find my answer [here](https://github.com/aevrah/theme-toggler). I started the AJAX section. 
 
 **Thoughts:** Already over 20% complete with the course. I think that it is well put together so far. The only issue I've had is with the volume. 
 
