@@ -20,6 +20,26 @@
 
 **Thoughts:** I'd like to dive a little deeper into the way promises vs callbacks works. 
 
+### Day 5: January 05, 2018 
+**Today's Progress**: Started section 5 on JSON of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). 
+
+**Thoughts:** I'm going to need a way to code while away from the computer if I'm going to complete this challenge on days I'm out of the house. 
+
+### Day 6: January 06, 2018 
+**Today's Progress**: Started using the Py app, so that I can code while away from my computer. 
+
+**Thoughts:** I really like having multiple learning methods going at the same time. I feel like it is solidifying the concepts better and faster to me. 
+
+### Day 7: January 07, 2018 
+**Today's Progress**: Finished section 5 on JSON of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). There was a bug in the final project solution that took me some time to fix. 
+
+**Thoughts:** First week complete of the challenge! I like my progress so far, and the methods I am using to learn. 
+
+### Day 8: January 08, 2018 
+**Today's Progress**: Finished section 6 on Scope of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). Went through the differences between the call, apply, and bind methods in JavaScript. 
+
+**Thoughts:** I really liked Cassidy's simplified explanations for the differences between these methods. 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
