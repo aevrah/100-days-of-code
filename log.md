@@ -40,6 +40,48 @@
 
 **Thoughts:** I really liked Cassidy's simplified explanations for the differences between these methods. 
 
+### Day 8: January 08, 2018 
+**Today's Progress**: Finished section 6 on Scope of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). Went through the differences between the call, apply, and bind methods in JavaScript. 
+
+### Day 9: January 09, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/950902008780746753)
+
+### Day 10: January 10, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/951220957607182336)
+
+### Day 11: January 11, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/951654531540008960)
+
+### Day 12: January 12, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/951946153838370817)
+
+### Days 13-14: January 13-14, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/952745912723386368)
+
+### Day 15: January 15, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/953107197818318848)
+
+### Day 16: January 16, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/953473613000097793)
+
+### Day 17: January 17, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/953846412562739200)
+
+### Day 18: January 18, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/954204471269113857)
+
+### Days 19-21: January 19-21, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/956979661187170304)
+
+### Day 22: January 22, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/956979662348939265)
+
+### Days 23-25: January 23-25, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/956979663405924352)
+
+### Day 26: January 26, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/956979664353861632)
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
