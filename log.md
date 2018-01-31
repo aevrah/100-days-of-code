@@ -82,6 +82,18 @@
 ### Day 26: January 26, 2018 
 **Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/956979664353861632)
 
+### Days 27-29: January 27-29, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/958153787939602432)
+
+### Day 30: January 30, 2018 
+**Today's Progress**: Finished the second challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of creating a live web clock using vanilla JS.  
+
+### Day 31: January 31, 2018 
+**Today's Progress**: Finished the third challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of using CSS variables and vanilla JS to alter an image. 
+
+**Thoughts:** I'm happy that I successfully completed my first month of #100DaysOfCode but sad that the days will no longer line up with the month date
+
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
