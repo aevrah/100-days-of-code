@@ -93,6 +93,9 @@
 
 **Thoughts:** I'm happy that I successfully completed my first month of #100DaysOfCode but sad that the days will no longer line up with the month date
 
+### Day 32: February 1, 2018 
+**Today's Progress**: Finished the fourth challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of completing array methods exercises using map, sort, reduce, and filter
+
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
