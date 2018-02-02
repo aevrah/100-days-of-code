@@ -96,6 +96,9 @@
 ### Day 32: February 1, 2018 
 **Today's Progress**: Finished the fourth challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of completing array methods exercises using map, sort, reduce, and filter
 
+### Day 33: February 2, 2018 
+**Today's Progress**: Finished the fifth challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of creating a flex box gallery using CSS and vanilla JS. 
+
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
