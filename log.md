@@ -100,10 +100,8 @@
 **Today's Progress**: Finished the fifth challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of creating a flex box gallery using CSS and vanilla JS. 
 
 ### Days 34-35: February 3-4, 2018 
-**Today's Progress**: Worked more on the NASA API challenge for the JavaScript and React for Developers course from @cassidoo. It's now working, but have to add the extras requested from the course
-Finished the fifth challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of creating a flex box gallery using CSS and vanilla JS. 
-
-Days 34-35: Worked more on the @NASA API challenge for Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). It's now working, but have to add the extras requested from the course. 
+**Today's Progress**: Worked more on the NASA API challenge for Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). It's now working, but have to add the extras requested from the course.
+ 
 
 
 <!--### Day 0: February 30, 2016 (Example 2)
