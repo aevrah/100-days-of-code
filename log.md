@@ -101,8 +101,10 @@
 
 ### Days 34-35: February 3-4, 2018 
 **Today's Progress**: Worked more on the NASA API challenge for Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). It's now working, but have to add the extras requested from the course.
- 
 
+### Day 36: February 5, 2018 
+**Today's Progress**: Finished the sixth challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of a type ahead input box by connecting to an API containing a list of cities. Used tools like API promises, regex, and the JavaScript map method. 
+ 
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
