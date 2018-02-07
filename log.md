@@ -105,6 +105,8 @@
 ### Day 36: February 5, 2018 
 **Today's Progress**: Finished the sixth challenge in ['JavaScript30 by Wes Bos'](https://javascript30.com/) of a type ahead input box by connecting to an API containing a list of cities. Used tools like API promises, regex, and the JavaScript map method. 
  
+### Day 37: February 6, 2018 
+**Today's Progress**: Finished the seventh challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of completing array methods exercises using some, every, find, and findIndex
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
