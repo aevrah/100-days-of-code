@@ -108,6 +108,9 @@
 ### Day 37: February 6, 2018 
 **Today's Progress**: Finished the seventh challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of completing array methods exercises using some, every, find, and findIndex
 
+### Day 38: February 7, 2018 
+**Today's Progress**: Finished a lesson on JSON and API requests from the Front-End Nanodegree from Udacity 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
