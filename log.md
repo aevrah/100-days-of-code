@@ -111,6 +111,11 @@
 ### Day 38: February 7, 2018 
 **Today's Progress**: Finished a lesson on JSON and API requests from the Front-End Nanodegree from Udacity 
 
+### Day 39: February 8, 2018 
+**Today's Progress**: Finished the eighth challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of creating an HTML5 canvas that paints the screen with various colors and line widths. 
+
+**Thoughts:** Personally, canvas is not my favorite thing to work with, but still good to know.
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
