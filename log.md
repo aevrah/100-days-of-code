@@ -116,6 +116,9 @@
 
 **Thoughts:** Personally, canvas is not my favorite thing to work with, but still good to know.
 
+### Day 40: February 9, 2018 
+**Today's Progress**: Started the lesson on 'Changing Expectations' and began working on my Cat Clicker project for the Front-end Nanodegree from Udacity
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
