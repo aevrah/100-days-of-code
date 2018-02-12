@@ -119,6 +119,12 @@
 ### Day 40: February 9, 2018 
 **Today's Progress**: Started the lesson on 'Changing Expectations' and began working on my Cat Clicker project for the Front-end Nanodegree from Udacity
 
+### Day 41-42: February 10-11, 2018 
+**Today's Progress**: Weekends are the hardest to keep up with the challenge bc I try to step away from the computer and relax. I've started juggling this by saving articles on tech topics I run into during the week on Pocket then catching up on reading them over the weekend
+
+### Day 43: February 12, 2018 
+**Today's Progress**:  Finished the ninth challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) on dev tool tricks. Most were already things I've used, but I did find out about the console.group  trick which seems pretty useful
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
