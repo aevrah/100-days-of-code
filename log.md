@@ -125,6 +125,12 @@
 ### Day 43: February 12, 2018 
 **Today's Progress**:  Finished the ninth challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) on dev tool tricks. Most were already things I've used, but I did find out about the console.group  trick which seems pretty useful
 
+### Day 44: February 13, 2018 
+**Today's Progress**:  Couldn't get to a lot of coding today. Just hopped on the Py app and went through a few exercises on the command line. 
+
+### Day 45: February 14, 2018 
+**Today's Progress**:  Finished the tenth challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/). Basically, I built a feature that allows a user to checkbox a list of things by only selecting the first and last item and holding down shift. 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
