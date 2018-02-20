@@ -131,6 +131,18 @@
 ### Day 45: February 14, 2018 
 **Today's Progress**:  Finished the tenth challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/). Basically, I built a feature that allows a user to checkbox a list of things by only selecting the first and last item and holding down shift. 
 
+### Days 46-47: February 15-16, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/964699511334436864)
+
+### Days 48-49: February 17-18, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/965374644663431168)
+
+### Day 50: February 19, 2018 
+**Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/965786441853775872)
+
+### Day 51: February 20, 2018 
+**Today's Progress**: Finished the 11th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of building a custom HTML5 video player. 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
