@@ -143,6 +143,11 @@
 ### Day 51: February 20, 2018 
 **Today's Progress**: Finished the 11th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of building a custom HTML5 video player. 
 
+### Day 52: February 21, 2018 
+**Today's Progress**: Finished the 12th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of building a key sequence detection (konami code). 
+
+**Thoughts**: Really enjoyed using Cornify for this project! 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
