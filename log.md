@@ -148,6 +148,9 @@
 
 **Thoughts**: Really enjoyed using Cornify for this project! 
 
+### Day 53: February 22, 2018 
+**Today's Progress**: I downloaded Yarn, Grunt, Gulp, and webpack and started on the Dependency Management section for Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs) today. 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
