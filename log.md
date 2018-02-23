@@ -151,6 +151,9 @@
 ### Day 53: February 22, 2018 
 **Today's Progress**: I downloaded Yarn, Grunt, Gulp, and webpack and started on the Dependency Management section for Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs) today. 
 
+### Day 54: February 23, 2018 
+**Today's Progress**: Finished the 13th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of creating a page that slides in different images upon scroll. We were also tasked with reversing this effect. I prefer when this is done once on initial scroll, and then keeps the entire page loaded. 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
