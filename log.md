@@ -154,6 +154,12 @@
 ### Day 54: February 23, 2018 
 **Today's Progress**: Finished the 13th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of creating a page that slides in different images upon scroll. We were also tasked with reversing this effect. I prefer when this is done once on initial scroll, and then keeps the entire page loaded. 
 
+### Day 55-56: February 24-25, 2018 
+**Today's Progress**: Another weekend of catching up on saved tech articles in Pocket and reviewing notes on new topics covered in the past week
+
+### Day 57: February 26, 2018 
+**Today's Progress**: Finished the 14th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of going through JS reference vs copy
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
