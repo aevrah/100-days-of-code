@@ -160,6 +160,12 @@
 ### Day 57: February 26, 2018 
 **Today's Progress**: Finished the 14th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of going through JS reference vs copy
 
+### Day 58: February 27, 2018 
+**Today's Progress**: Started on the 15th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) involving local storage and event delegation, but did not have time to complete it today. 
+
+### Day 59: February 28, 2018 
+**Today's Progress**: Finished the 15th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) involving local storage and event delegation.
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
