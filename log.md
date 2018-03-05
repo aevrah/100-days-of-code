@@ -166,6 +166,16 @@
 ### Day 59: February 28, 2018 
 **Today's Progress**: Finished the 15th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) involving local storage and event delegation.
 
+### Day 60: March 01, 2018 
+**Today's Progress**: Only enough time for some Py app exercises today
+
+
+### Day 61-63: March 2-4, 2018 
+**Today's Progress**: Another weekend of catching up on saved tech articles in Pocket and reviewing notes on new topics covered in the past week
+
+### Day 64: March 5, 2018 
+**Today's Progress**: Finished the 16th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of using CSS text shadow events on mouse movement.
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
