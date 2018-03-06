@@ -176,6 +176,9 @@
 ### Day 64: March 5, 2018 
 **Today's Progress**: Finished the 16th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of using CSS text shadow events on mouse movement.
 
+### Day  65: March 6, 2018 
+**Today's Progress**: Completed sections 39 and 40 on npm, Yarn, and Grunt for Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs) 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
