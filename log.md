@@ -179,6 +179,9 @@
 ### Day  65: March 6, 2018 
 **Today's Progress**: Completed sections 39 and 40 on npm, Yarn, and Grunt for Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs) 
 
+### Day 66: March 7, 2018 
+**Today's Progress**: Finished the 17th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of sorting a list of names without their articles words
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
