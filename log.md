@@ -182,6 +182,9 @@
 ### Day 66: March 7, 2018 
 **Today's Progress**: Finished the 17th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of sorting a list of names without their articles words
 
+### Day 67: March 8, 2018 
+**Today's Progress**: Worked on a section of the jQuery course from Codecademy 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
