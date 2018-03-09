@@ -185,6 +185,9 @@
 ### Day 67: March 8, 2018 
 **Today's Progress**: Worked on a section of the jQuery course from Codecademy 
 
+### Day 68: March 9, 2018 
+**Today's Progress**: Finished the 18th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of tallying string times with the map and reduce methods 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
