@@ -40,9 +40,6 @@
 
 **Thoughts:** I really liked Cassidy's simplified explanations for the differences between these methods. 
 
-### Day 8: January 08, 2018 
-**Today's Progress**: Finished section 6 on Scope of Cassidy William's Udemy course ['JavaScript and React for Developers: Master the Essentials'](https://www.udemy.com/js-and-react-for-devs). Went through the differences between the call, apply, and bind methods in JavaScript. 
-
 ### Day 9: January 09, 2018 
 **Today's Progress**: ['Update on Twitter'](https://twitter.com/mar15sa/status/950902008780746753)
 
@@ -187,6 +184,12 @@
 
 ### Day 68: March 9, 2018 
 **Today's Progress**: Finished the 18th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of tallying string times with the map and reduce methods 
+
+### Day 69-70: March 10-11, 2018 
+**Today's Progress**: Another weekend of catching up on saved tech articles in Pocket and reviewing notes on new topics covered in the past week
+
+### Day 71: March 12, 2018 
+**Today's Progress**: Worked on another section of the jQuery course from Codecademy 
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
