@@ -191,6 +191,27 @@
 ### Day 71: March 12, 2018 
 **Today's Progress**: Worked on another section of the jQuery course from Codecademy 
 
+### Day 72: March 13, 2018 
+**Today's Progress**: Worked on another section of the jQuery course from Codecademy. Only 2 sections left!
+
+### Day 73: March 14, 2018 
+**Today's Progress**: Finished the jQuery course from @Codecademy
+
+### Days 74-78: March 15-19, 2018 
+**Today's Progress**: I've been traveling and wasn't able to use my laptop at all. I spent this time catching up on saved tech articles in Pocket and reviewing notes on new topics. Looking forward to getting back to coding this week!
+
+### Days 79-82: March 20-23, 2018 
+**Today's Progress**: Worked a bunch of overtime, so I've only been able to spend 5 min here and there working on this challenge. 
+
+### Days 83-84: March 24-25, 2018 
+**Today's Progress**: Another weekend of catching up on saved tech articles in Pocket and reviewing notes on new topics covered in the past week
+
+### Day 85: March 26, 2018 
+**Today's Progress**: Finished the 19th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of creating a webcam application and effects. 
+
+### Day 86: March 27, 2018 
+**Today's Progress**: Finished the 20th challenge from the ['JavaScript30 by Wes Bos'](https://javascript30.com/) of using native speech recognition. 
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)--> 
 
